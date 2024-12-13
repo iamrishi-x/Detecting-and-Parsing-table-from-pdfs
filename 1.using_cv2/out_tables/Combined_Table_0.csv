@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8
+benefit under Part C ,,,,,,,,
+Part C OTC Frequency ,Monthly ,,,,,,,
+Part C OTC Comments,,,,,,,,
+OTC Not Administered by Navitus. Geisinger Administered OTC Benefit.,,,,,,,,
+Plan Type ,Defined Standard Benefit Plan ,Formulary ID: ,00024417 ,,,,,
+Formulary Exception Tier ,N/A ,Lower Level Formulary Exception Tier ,N/A ,,,,,
+One Month Supply Limit ,30 ,LTC One Month Supply Limit ,31 ,,,,,
+OON Day Supply ,30 ,Mail Order Day Supply ,100 ,,,,,
+Over-The- Counter (OTC) Items as a supplemental benefit under Part D ,No ,Out of Network (OON) Claims processing ,Manual ,,,,,
+DMR Methodology ,Contracted - OOP ,Recoupment Threshold ,$25 ,,,,,
+,,,,,,,,
+Part D Inoulin ,In Network ,Mail ,OON ,LTC ,,,,
+,1-30 Day ,31-60 Day ,61-100 - Day ,1-30 Day ,31-60 Day ,61-100 Day ,30 Day ,31 Day 
+,$ 35.00 ,$ 70.00 ,$ 87.50 ,$ 35.00 ,$ 52.50 ,$ 52.50 ,$ 35.00 ,$ 35.00 
+DAW Processing Requirements,,,,,,,,
+Standard ,"DAW 0,1,2,5,8 and 9 will process at POS. DAW 3,4,6 and 7 will reject at POS with error 22 (M/I DA/product selection code) ",,,,,,,
+Generic Available ,"DAW 0,1,2,5,8 and 9 will process at POS. Claim does not reject with NCPDP 22 and processes with the following: Generic Reimbursement (Lesser of Logic applies) Copay (DAW Copay Rule C - Patient Pays Copay) The copay is based on the Tier regardless of the DAW submitted. Generic available = MONY code ""Y"" MONY ""M/N"" should always process as a brand, ""Y"" should process as a generic, ""O"" should process as ""Multi Source Brand Drugs"" Generic Dispense Fee DAW 3,4,6,7 will process at POS. Claim denies with NCPDP 22. ",,,,,,,
+Multi-Source Brand Drugs ,"DAW 0,1,2, 5,8 and 9 will process at POS Claim does not reject with NCPDP 22 and processes with the following: Brand Reimbursement (Lesser of Logic applies) The copay is based on the Tier regardless of the DAW submitted Generic available = MONY code ""Y"" MONY ""M/N"" should always process as a brand, ""Y"" should process as a generic, ""O"" [ ] should process as ""Multi Source Brand Drugs"" Brand Dispense Fee DAW 3,4,6,7 will process at POS. Claim denies with NCPDP 22. ",,,,,,,
+Single-Source Brand Drugs ,"DAW 0,1,2,5,8,9: Claim does not reject with NCPDP 22 and processes with the following: Brand Reimbursement (Lesser of Logic applies) Copay (DAW Copay Rule C - Patient Pays Copay) ",,,,,,,

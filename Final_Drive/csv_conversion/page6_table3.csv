@@ -1,0 +1,8 @@
+0,1,2,3,4
+Tier # ,Tier Name ,Daily Cost Share Standard Retail ,Daily Cost Share Preferred Retail ,Daily Cost Share LTC 
+1 ,Preferred Generic ,$0.10 ,N/A ,$0.10 
+2 ,Generic ,$0.67 ,N/A ,$0.65 
+3 ,Preferred Brand ,$ 1.57 ,N/A ,$ 1.52 
+4 ,Non-Preferred Drug ,$3.33 ,N/A ,$3.23 
+5 ,Specialty ,33% ,N/A ,33% 
+6 ,Vaccines ($0 cost sharing) ,$ 0.00 ,N/A ,$ 0.00 
